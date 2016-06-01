@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.radiadesign.catalina</groupId>
     <artifactId>redis-session</artifactId>
-    <packaging>war</packaging>
+    <!--<packaging>war</packaging>-->
     <version>1.0-SNAPSHOT</version>
     <name>redis-session</name>
     <url>http://maven.apache.org</url>
